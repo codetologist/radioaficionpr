@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/radioaficionpr/static/css/main.5f361e03.chunk.css",
+    "main.js": "/radioaficionpr/static/js/main.dc76f7d6.chunk.js",
+    "main.js.map": "/radioaficionpr/static/js/main.dc76f7d6.chunk.js.map",
+    "runtime-main.js": "/radioaficionpr/static/js/runtime-main.8fb2093a.js",
+    "runtime-main.js.map": "/radioaficionpr/static/js/runtime-main.8fb2093a.js.map",
+    "static/js/2.786205b6.chunk.js": "/radioaficionpr/static/js/2.786205b6.chunk.js",
+    "static/js/2.786205b6.chunk.js.map": "/radioaficionpr/static/js/2.786205b6.chunk.js.map",
+    "index.html": "/radioaficionpr/index.html",
+    "precache-manifest.8af27d83f3786225b67e9bbb36cdac6a.js": "/radioaficionpr/precache-manifest.8af27d83f3786225b67e9bbb36cdac6a.js",
+    "service-worker.js": "/radioaficionpr/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/radioaficionpr/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.786205b6.chunk.js.LICENSE.txt": "/radioaficionpr/static/js/2.786205b6.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/radioaficionpr/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8fb2093a.js",
+    "static/js/2.786205b6.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.dc76f7d6.chunk.js"
+  ]
+}
